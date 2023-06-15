@@ -1,0 +1,12 @@
+E:\My Study\Learning Tech\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net7.0\BuberBreakfast.Contracts.deps.json
+E:\My Study\Learning Tech\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net7.0\BuberBreakfast.Contracts.dll
+E:\My Study\Learning Tech\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net7.0\BuberBreakfast.Contracts.pdb
+E:\My Study\Learning Tech\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.csproj.AssemblyReference.cache
+E:\My Study\Learning Tech\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Study\Learning Tech\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+E:\My Study\Learning Tech\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.AssemblyInfo.cs
+E:\My Study\Learning Tech\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+E:\My Study\Learning Tech\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.dll
+E:\My Study\Learning Tech\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\refint\BuberBreakfast.Contracts.dll
+E:\My Study\Learning Tech\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\BuberBreakfast.Contracts.pdb
+E:\My Study\Learning Tech\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net7.0\ref\BuberBreakfast.Contracts.dll

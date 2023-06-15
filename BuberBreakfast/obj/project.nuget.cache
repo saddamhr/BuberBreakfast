@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "f0YIAy+PzqN4OhYdKvRbuInIJoE87Ft6/MxjF/GBGKuB0tY80mUUPwwWElNgx5HVoPUUc4ENygJ+RHmjI+R+bA==",
+  "success": true,
+  "projectFilePath": "E:\\My Study\\Learning Tech\\Industry Level REST API using .NET 6 – Tutorial for Beginners\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.selise.biz/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

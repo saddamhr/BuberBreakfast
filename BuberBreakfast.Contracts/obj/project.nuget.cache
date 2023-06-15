@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PtLFyCCr9UhVF+JfrwnTdqS0RqSEROYZk1d0JCxYrYf2Tewzc/uucACvcMpFpGK2IAKi7iYi1j8rLnQu77iMlQ==",
+  "success": true,
+  "projectFilePath": "E:\\My Study\\Learning Tech\\Industry Level REST API using .NET 6 – Tutorial for Beginners\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.selise.biz/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

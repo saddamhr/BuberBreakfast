@@ -1,0 +1,6 @@
+@id=915ef95d-1a82-493f-9d0b-6b8fd1bd8d71
+DELETE http://localhost:5154/breakfasts/{{id}}
+
+###
+
+GET http://localhost:5154/Breakfasts/f7cd978e-b4c3-4f2d-900e-cb52024404d6
